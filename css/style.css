@@ -846,6 +846,7 @@ figure.effect-lexi:hover p {
 /*-- about-page --*/
 .wthree-main-content {
     padding: 70px 0;
+	text-align:center;
 }
 .w3layouts-inner-banner {
 	background:url('../images/22.jpg') no-repeat 0px 0px;
@@ -3251,4 +3252,40 @@ h3.agileits-branch {
 .simplefilter{
 	
 	 display: none;
+}
+
+.button777 {
+	
+	border-radius: 8px;
+	font-size: 30px;
+	background-color: #00cdff;	
+	text-decoration:none;
+	text-align:center;
+	color:white;
+	display: block;
+	margin: 0 auto;
+	width:200px;
+	padding: 10px 5px;
+}
+
+.button777 a{
+	
+	text-decoration:none;
+	color:black;
+}
+
+.button777 p{
+	
+	text-decoration:none;
+	color:black;
+}
+.button777 a:hover{
+	
+	text-decoration:none;
+}
+
+.button777:hover{
+	
+	text-decoration:none;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
