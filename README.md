@@ -6,7 +6,6 @@ www.giordanaarcesilai.com
 
 </BR>
 
-https://webchainsolutions.github.io/giordanaarcesilai.github.io/
 
 Coded by: <a href="https://github.com/JonnyBanana">Nicolò Saporito</a> and <a href="https://github.com/MrBars75">Mirco Baragiani</a>
 for <a href="https://github.com/WebChainSolutions">WebChainSolutions</a> , Bologna, Italy, 2018 
